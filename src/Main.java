@@ -74,3 +74,23 @@ public class Main {
     }
 }
 
+/* TASK 2
+
+[((())()(())]]
+This sequence incorrect
+
+Add a closing parenthesis ) at the end of a sequence of parentheses to balance the parentheses.
+Add an opening square bracket ] at the beginning to balance the square brackets.
+
+[[((())()(()))]]
+
+
+OR
+
+Remove the opening parenthesis ) at the beginning of the parenthesis sequence to balance the parentheses.
+Remove the closing square bracket ] at the end to balance the square brackets.
+
+[(())()(())]
+
+ */
+
